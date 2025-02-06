@@ -1,6 +1,6 @@
 ## Project View
 
-This project was done as an intership project for a company
+This project was done for exam purposes.
 
 <kbd>![](https://res.cloudinary.com/anshumxn09/image/upload/v1692799526/test/quickSell2_pjyru9.png)</kbd>
 
